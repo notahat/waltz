@@ -1,0 +1,3 @@
+module Waltz
+  # Your code goes here...
+end
